@@ -90,4 +90,4 @@ retail-sales-dashboard/
 
 ## 👤 Author
 
-**Sumanth** — Data Analyst | SQL • Power BI (PL-300) • Excel | Ex-Oracle Apps DBA
+**Sumanth** — Data Analyst | SQL | Power BI (PL-300) | Excel 
